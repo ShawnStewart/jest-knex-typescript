@@ -1,0 +1,23 @@
+{
+    "name": "jest-knex-typescript",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Shawn Stewart <s.stewart0220@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "test": "jest"
+    },
+    "dependencies": {
+        "knex": "^0.21.2",
+        "sqlite3": "^5.0.0"
+    },
+    "devDependencies": {
+        "@types/jest": "^26.0.9",
+        "@types/knex": "^0.16.1",
+        "@types/node": "^14.0.27",
+        "jest": "^26.2.2",
+        "ts-jest": "^26.1.4",
+        "ts-node": "^8.10.2",
+        "typescript": "^3.9.7"
+    }
+}
